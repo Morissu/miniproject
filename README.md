@@ -1,1 +1,1 @@
-# miniprojectprogate
+# miniproject
